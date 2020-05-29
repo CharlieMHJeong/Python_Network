@@ -30,14 +30,13 @@ Please install python 3.7.4 and run it on Windows.
 5.	Please check console or ip_port_log.txt file for the result.
 
 ### EventViewer in Windows
-Use writingToEventViewer.py to modify the EventID, CategoryID and EventType
-
-EventType:
-EVENTLOG_ERROR_TYPE : Error Level
-EVENTLOG_WARNING_TYPE: Warning Level
+Use writingToEventViewer.py to modify the EventID, CategoryID and EventType <br/>
 
 EventID: 7040<br/>
 CategoryID: 9876<br/>
+EventType:<br/>
+    EVENTLOG_ERROR_TYPE : Error Level<br/>
+    EVENTLOG_WARNING_TYPE: Warning Level<br/>
 
 
 ### Imported Libraries
