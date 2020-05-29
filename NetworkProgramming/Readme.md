@@ -37,6 +37,19 @@ CategoryID: 9876<br/>
 
 Use writingToEventViewer.py to modify the EventID and CategoryID
 
+### Imported Libraries
+1.	ipaddress
+2.	os
+3.	platform
+4.	socket
+5.	logging
+6.	win32evtlogutil
+7.	win32evtlog
+8.	time
+9.	logging
+10.	sys
+
+
 ### Bug Fixes:
 
 ### Release Notes:
