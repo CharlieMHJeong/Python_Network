@@ -31,8 +31,11 @@ Please install python 3.7.4 and run it on Windows.
 
 ### EventID, CategoryID
 In the Filter of EventViewer, use the following information. <br/>
+
 EventID: 7040<br/>
-CategoryID: 9876
+CategoryID: 9876<br/>
+
+Use writingToEventViewer.py to modify the EventID and CategoryID
 
 ### Bug Fixes:
 
