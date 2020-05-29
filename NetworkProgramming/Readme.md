@@ -1,13 +1,13 @@
-Project Title
+# Project Title
 IPGenerator_PortScanner
 
-Getting Started
+## Getting Started
 This application is going to generate IPs from the given network and scan ports(ports.txt).
 
-System requirement
+### System requirement
 Please install python 3.7.4 and run it on Windows.
 
-Feature Requirement
+### Feature Requirement
 1.	All IP addresses generated must fall within the subnet input by the end-user 
 •	the end-user will be prompted to provide the subnet and subnet mask when the script first starts 
 •	for example: subnet 192.168.x with subnet mask of 255.255.255.0 
@@ -22,7 +22,7 @@ Feature Requirement
 •	log file (ip_port_log.txt)
 •	Windows Event Viewer (IP Addresses Only)
 
-Running the tests
+### Running the tests
 1.	Put all the files in the same directory
 2.	Please prepare ports.txt file 
 3.	Run “xyzit_port_scanner.py” 
@@ -30,7 +30,7 @@ Running the tests
 Please enter a network address(IPAddress/sm):
 5.	Please check console or ip_port_log.txt file for the result.
 
-Bug Fixes:
+### Bug Fixes:
 
-Release Notes:
+### Release Notes:
 #1.0.0 - CJ 29.05.2020 First draft
