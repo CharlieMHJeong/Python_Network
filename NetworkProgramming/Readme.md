@@ -1,5 +1,4 @@
-# Project Title
-IPGenerator_PortScanner
+# IPGenerator_PortScanner
 
 ## Getting Started
 This application is going to generate IPs from the given network and scan ports(ports.txt).
@@ -27,7 +26,7 @@ Please install python 3.7.4 and run it on Windows.
 2.	Please prepare ports.txt file 
 3.	Run “xyzit_port_scanner.py” 
 4.	If Enter proper IP network address when it prompts
-    Please enter a network address(IPAddress/sm):
+    •	Please enter a network address(IPAddress/sm):
 5.	Please check console or ip_port_log.txt file for the result.
 
 ### Bug Fixes:
