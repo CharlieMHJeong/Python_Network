@@ -29,13 +29,16 @@ Please install python 3.7.4 and run it on Windows.
     •	Please enter a network address(IPAddress/sm):
 5.	Please check console or ip_port_log.txt file for the result.
 
-### EventID, CategoryID
-In the Filter of EventViewer, use the following information. <br/>
+### EventViewer in Windows
+Use writingToEventViewer.py to modify the EventID, CategoryID and EventType
+
+EventType:
+EVENTLOG_ERROR_TYPE : Error Level
+EVENTLOG_WARNING_TYPE: Warning Level
 
 EventID: 7040<br/>
 CategoryID: 9876<br/>
 
-Use writingToEventViewer.py to modify the EventID and CategoryID
 
 ### Imported Libraries
 1.	ipaddress
