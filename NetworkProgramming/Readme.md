@@ -25,7 +25,7 @@ Please install python 3.7.4 and run it on Windows.
 1.	Put all the files in the same directory
 2.	Please prepare ports.txt file 
 3.	Run “xyzit_port_scanner.py” 
-4.	If Enter proper IP network address when it prompts<br/>
+4.	Enter proper IP network address when it prompts<br/>
     •	Please enter a network address(IPAddress/sm):
 5.	Please check console or ip_port_log.txt file for the result.
 
