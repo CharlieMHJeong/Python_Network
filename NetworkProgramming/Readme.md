@@ -1,4 +1,4 @@
-# IPGenerator_PortScanner
+# IPGenerator_PortScanner - Windows
 
 ## Getting Started
 This application is going to generate IPs from the given network and scan ports(ports.txt).
@@ -22,7 +22,7 @@ Please install python 3.7.4 and run it on Windows.
     •	Windows Event Viewer (IP Addresses Only)<br/>
 
 ### Running the tests
-1.	Put all the files in the same directory
+1.	Put all the files in the same directory 
 2.	Please prepare ports.txt file 
 3.	Run “xyzit_port_scanner.py” 
 4.	Enter proper IP network address when it prompts<br/>
