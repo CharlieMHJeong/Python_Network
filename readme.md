@@ -1,4 +1,4 @@
-# IPGenerator_PortScanner - Windows
+# IPGenerator_PortScanner
 
 ## Getting Started
 This application is going to generate IPs from the given network and scan ports(ports.txt).
